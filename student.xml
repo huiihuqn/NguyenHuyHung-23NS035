@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Nguyen Huy Hung</name>
+        <address>Đà Nẵng</address>
+        <dateOfBirth>2005-01-01</dateOfBirth>
+    </student>
+    <!-- more students -->
+</students>
